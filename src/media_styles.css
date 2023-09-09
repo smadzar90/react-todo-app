@@ -1,0 +1,114 @@
+@media(max-width: 499px) {
+    .main {
+        margin: 0px !important;
+        height: 100svh !important;
+        border-radius: 0px !important;
+        width: 100vw !important;
+        min-width: 100vw !important;
+    }
+
+    .heading {
+        border-radius: 0px !important;
+        height: 10svh !important;
+    }
+
+    h1 {
+        font-size: 17px !important;
+    }
+
+    #root {
+        margin: 0px !important;
+        min-height: 100svh !important;
+    }
+
+    .split {
+        margin: 0px !important;
+    }
+
+    .box {
+        margin: 10px !important;
+        margin-bottom: 0px !important;
+        height: calc(76svh - 65px) !important;
+    }
+
+    .timeL {
+        top: 20% !important;
+        font-size: 8px !important;
+        width: 80px !important;
+        right: 0vw !important;
+        float: right;
+    }
+
+    form {
+        gap: 10px !important;
+    }
+
+    .task {
+        margin-left: 10px !important;
+        height: 25px !important;
+        font-size: 11px !important;
+    }
+
+    .line {
+        font-size: 11px !important;
+        width: 60% !important;
+    }
+
+    .icons {
+        margin-right: 6px !important;
+        transform: scale(0.94);
+    }
+
+    .task2 {
+        width: 87% !important;
+        height: 22px !important;
+    }
+
+    .bottom {
+        height: 14svh !important;
+        margin-right: 10% !important;
+    }
+
+    .taskArea {
+        padding-bottom: 10px !important;
+        padding-top: 10px !important;
+    }
+
+    .edit, .edit2, .checkbox {
+        transform: scale(1.2) !important;
+    }
+
+    .clearAll {
+        height: 26px  !important;
+        width: 80px !important;
+    }
+
+    .info {
+        display: none;
+    }
+}
+
+@media(max-width: 330px) {
+
+    .checkI {
+        transform: scale(1.4) !important;
+    }
+
+    .timeL {
+        font-size: 6px !important;
+    }
+
+    h1 {
+        font-size: 14px !important;
+    }
+
+    .task2 {
+        width: 82% !important;
+    }
+}
+
+@media(max-width: 1050px) {
+    .split {
+        flex-direction: column;
+    }
+}
