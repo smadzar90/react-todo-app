@@ -2,11 +2,16 @@
 
 ## 📄  Description
 
+My Todos is a simple and efficient tool for managing tasks and staying organized. This React-based application allows users to create, edit, delete, and mark tasks as completed. It also provides statistics on added, completed, and edited tasks.
 
+## 💻  Technologies
 
-## Available Scripts
-
-In the project directory, you can run:
+- React
+- React Icons
+- Date-fns
+- CSS
+- LocalStorage
+- Node.js and npm
 
 ### `npm start`
 
