@@ -13,6 +13,10 @@ My Todos is a simple and efficient tool for managing tasks and staying organized
 - LocalStorage
 - Node.js and npm
 
+## 🖼️  Screenshots
+
+<img src="screenshots/screenshot1.png" width="750" height="400" />
+
 ## 🌟  Features
 
 - Create new tasks with a user-friendly interface.
