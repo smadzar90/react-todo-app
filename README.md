@@ -27,8 +27,8 @@ My Todos is a simple and efficient tool for managing tasks and staying organized
 
 1. Clone this repository to your local machine using `git clone`.
 2. Navigate to the project directory.
-3. Install the project dependencies: npm install
-4. Start the development server: npm start
+3. Install the project dependencies: `npm install`
+4. Start the development server: `npm start`
 
 ## 📞  Contact
 
