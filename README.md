@@ -15,7 +15,7 @@ My Todos is a simple and efficient tool for managing tasks and staying organized
 
 ## 🖼️  Screenshots
 
-<img src="screenshots/screenshot1.png" width="750" height="400" />
+<img src="Screenshots/screenshot1.png" width="750" height="400" />
 
 ## 🌟  Features
 
